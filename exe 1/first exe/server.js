@@ -9,6 +9,7 @@ app.use(express.static(path.join(__dirname,'public')));//statment path
 app.get('/page',function(req,res){ //catch get 
 	
 
+	
     
 	console.log(req.prtocol);
 	console.log(req.ip);
