@@ -11,6 +11,7 @@ app.get('/page',function(req,res){ //catch get
 
 	
 
+
 	
     
 	console.log(req.prtocol);
